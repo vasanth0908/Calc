@@ -104,6 +104,7 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
+![Screenshot 2023-11-21 102038](https://github.com/vasanth0908/Calc/assets/122000018/c7e8bf1c-48ab-4be9-8f19-00a0e15539c9)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
